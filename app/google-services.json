@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "108028055752",
+    "firebase_url": "https://fireapp-53e65-default-rtdb.firebaseio.com",
+    "project_id": "fireapp-53e65",
+    "storage_bucket": "fireapp-53e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108028055752:android:7e85107794bca0c60155fd",
+        "android_client_info": {
+          "package_name": "com.example.bingoonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108028055752-2j4bloemflolrtjaj16325m5encvd5n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZwIru9Wt_sTBSP7T3GzMCfxiSvsjT8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108028055752-2j4bloemflolrtjaj16325m5encvd5n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108028055752:android:24885b64b287be0f0155fd",
+        "android_client_info": {
+          "package_name": "com.example.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108028055752-2j4bloemflolrtjaj16325m5encvd5n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZwIru9Wt_sTBSP7T3GzMCfxiSvsjT8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108028055752-2j4bloemflolrtjaj16325m5encvd5n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
